@@ -21,11 +21,16 @@ The purpose of maintaining this repository is to:
 
 | Sl No. | Problem Name | Points | Difficulty | Topic | HackerRank Link | Solution Link |
 | :---: | :--- | :---: | :---: | :--- | :---: | :---: |
-| 1 | Revising the Select Query I | 10 | Easy | SELECT | [View Problem](https://www.hackerrank.com/) | [View Solution](./) |
-| 2 | Revising the Select Query II | 10 | Easy | WHERE Clause | [View Problem](https://www.hackerrank.com/) | [View Solution](./) |
-| 3 | Select All | 10 | Easy | SELECT | [View Problem](https://www.hackerrank.com/) | [View Solution](./) |
-| 4 | Select By ID | 10 | Easy | WHERE Clause | [View Problem](https://www.hackerrank.com/) | [View Solution](./) |
-| 5 | Japanese Cities' Names | 15 | Easy | DISTINCT | [View Problem](https://www.hackerrank.com/) | [View Solution](./) |
+| 1 | Revising the Select Query I | 10 | Easy | SELECT & WHERE Clause | [View Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [View Solution](https://github.com/datawithsudeb/SQL-Roadmap-and-Problem-Solvings/blob/main/Hackerrank/Easy/Revising%20the%20Select%20Query%20I.md) |
+| 2 | Revising the Select Query II | 10 | Easy | SELECT & WHERE Clause | [View Problem](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [View Solution](https://github.com/datawithsudeb/SQL-Roadmap-and-Problem-Solvings/blob/main/Hackerrank/Easy/Revising%20The%20Select%20Query%20II.md) |
+| 3 | Select All | 10 | Easy | SELECT | [View Problem](https://www.hackerrank.com/challenges/select-all-by-id/problem) | [View Solution](https://github.com/datawithsudeb/SQL-Roadmap-and-Problem-Solvings/blob/main/Hackerrank/Easy/Select%20All.md) |
+| 4 | Select By ID | 10 | Easy | WHERE Clause | [View Problem](https://www.hackerrank.com/challenges/select-all-by-id/problem) | [View Solution](https://github.com/datawithsudeb/SQL-Roadmap-and-Problem-Solvings/blob/main/Hackerrank/Easy/Select%20By%20ID.md) |
+| 5 | Japanese Cities' Attributes | 10 | Easy | WHERE Clause | [View Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [View Solution](https://github.com/datawithsudeb/SQL-Roadmap-and-Problem-Solvings/blob/main/Hackerrank/Easy/Japanese%20Cities'%20Attributes.md) |
+| 6 | Japanese Cities' Names | 10 | Easy | WHERE Clause | [View Problem](https://www.hackerrank.com/challenges/japanese-cities-names/problem) | [View Solution](https://github.com/datawithsudeb/SQL-Roadmap-and-Problem-Solvings/blob/main/Hackerrank/Easy/Japanese%20Cities'%20Names.md) |
+| 7 | Weather Observation Station 1 | 15 | Easy | ORDER BY | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [View Solution](https://github.com/datawithsudeb/SQL-Roadmap-and-Problem-Solvings/blob/main/Hackerrank/Easy/Weather%20Observation%20Station%201.md) |
+| 8 | Weather Observation Station 3 | 10 | Easy | DISTINCT | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [View Solution](https://github.com/datawithsudeb/SQL-Roadmap-and-Problem-Solvings/blob/main/Hackerrank/Easy/Weather%20Observation%20Station%203.md) |
+| 9 | Weather Observation Station 4 | 10 | Easy | DISTINCT & COUNT | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [View Solution](https://github.com/datawithsudeb/SQL-Roadmap-and-Problem-Solvings/blob/main/Hackerrank/Easy/Weather%20Observation%20Station%204.md) |
+| 10 | Weather Observation Station 5 | 30 | Easy | LIMIT & FUNCTION | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [View Solution](https://github.com/datawithsudeb/SQL-Roadmap-and-Problem-Solvings/blob/main/Hackerrank/Easy/Weather%20Observation%20Station%205.md) |
 
 
 ---
